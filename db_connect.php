@@ -20,7 +20,7 @@ if(db()){
 //     }
 // } else {
 //     echo "0 results";
-// }
+// }  
 
 ?>
 
