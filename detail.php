@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="styles.css">
-
 <?php 
 session_start();
 require_once "db_connect.php";
