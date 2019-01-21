@@ -2,4 +2,14 @@ a {
     text-align: center;
 }
 
-body{ text-align: center;}
+body{ 
+    text-align: center;
+
+}
+button {
+    margin-top: 8px;
+}
+
+button > a{
+    text-decoration: none;
+}

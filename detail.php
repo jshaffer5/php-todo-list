@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="styles.css">
 
 <?php 
+session_start();
 require_once "db_connect.php";
 if(isset($_GET['id'])) {
  $id = $_GET['id'];
