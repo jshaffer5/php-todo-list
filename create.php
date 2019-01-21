@@ -1,6 +1,7 @@
 <html>
     <head>
     <title>Create Todo list</title>
+    <link rel="stylesheet" href="styles.css">
     </head>
 <body>
     <h1>Create Todo List</h1>
