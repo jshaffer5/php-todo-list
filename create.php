@@ -35,4 +35,6 @@ if ($link->query($sql) === TRUE) {
 $link->close();
 }
 ?>
+<br>
+<button><a href="index.php">Full List</a></button>
 

@@ -24,3 +24,6 @@ if(isset($_GET['id'])) {
     echo 'no todo';
  }
 }
+?>
+<br>
+<button><a href="index.php">Full List</a></button>
